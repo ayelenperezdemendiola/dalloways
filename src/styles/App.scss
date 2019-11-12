@@ -29,23 +29,21 @@
     left: 0px;
     right: 0px;
     min-height: 100vh;
-    min-width: 100vh;
     animation-name: showNav;
     animation-duration: 300ms;
     animation-iteration-count: 1;
-    // por qué cuando lo pongo en versión movil se alinea a la derecha?
 }
 .nav__options{
     list-style: none;
     background-color: #026f59;
     text-align: center;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Caveat Brush', cursive;  
     height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 40px 40px 20px 40px;
+    padding: 60px 60px 40px 60px;
     border-radius: 20px;
 }
 .nav--trigger{
@@ -66,7 +64,6 @@
 .nav--closer{
     background-image: url('../images/close--btn.svg');
     background-position: center;
-    background-repeat: no-repeat;
     background-size: contain;
     position: fixed;
     top: 30px;
@@ -100,7 +97,8 @@
     transform: scale(0,1);
 }
 .link:hover{
-    font-weight: 700;
+    font-weight: 800;
+    font-size: 40px;
     &::after{
         opacity: 1;
         -webkit-transform: scale(1);
