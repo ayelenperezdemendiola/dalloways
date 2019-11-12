@@ -11,9 +11,7 @@
     background-repeat: repeat;
     background-size: contain;
     min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
 }
 /*header*/
 .app__header{
@@ -119,6 +117,12 @@
     }
 }
 /*main*/
+.hero__container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .main__hero{
     background-color: #f4bb4e;
     height: 250px;
@@ -138,5 +142,54 @@
         text-align: center;
         margin-top: 10px;
         width: 200px;
+    }
+}
+// products
+.products__wrapper{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.products__title--description{
+    text-align: center;
+    background: #ff695a;
+    border-radius: 20px;
+    padding: 20px;
+}
+.products__title{
+    font-family: 'Caveat Brush', cursive;  
+    font-size: 42px;
+}
+.products__description{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 15px;
+}
+.products__list--container{
+    background-color: blue;
+    width: 100%;
+}
+.products__list{
+    list-style: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.item__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: green;
+    height: 150px;
+    width: 150px;
+    .item__img{
+        height: 100px;
+        width: 100px;
     }
 }
