@@ -1,61 +1,61 @@
 const foodList = [
     {
-        name : 'food',
+        name : 'fideos',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'tallarines',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'ensalada',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'guacamole',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'tortilla',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'budín',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'croquetas',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'cosa',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'cosita',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'comida',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     },
     {
-        name : 'food',
+        name : 'comidita',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     }, 
     {
-        name : 'food',
+        name : 'comidota',
         img : 'https://www.pookspantry.com/wp-content/uploads/2019/05/veg-cake-6.jpg',
         description : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus optio vero, ratione velit corporis rerum eos. Commodi soluta voluptatibus repellendus, nihil distinctio consectetur est ex similique, nisi dolorem consequatur magni!'
     }

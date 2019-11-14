@@ -4,14 +4,11 @@ import Products from './Products';
 
 const Main = (props) => {
     
-    const { foodList } = props;
+    const { foodList, isOpen, isProducts } = props;
 
     return (
         <main className="app__main">
             <Hero
-            />
-            <Products
-            foodList={ foodList }
             />
         </main>
     );
