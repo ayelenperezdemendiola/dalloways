@@ -5,6 +5,7 @@ import { foodList } from './foodList/foodList';
 import Home from './components/Home';
 import Products from './components/Products';
 import Detail from './components/Detail';
+import AboutMe from './components/AboutMe';
 
 
 class App extends React.Component {
@@ -62,6 +63,7 @@ class App extends React.Component {
         }
       }
       />
+      <Route path="/about" component={AboutMe }/>
       <Route path="/:name" component={(routerProps)=>{
         return(
           <Detail

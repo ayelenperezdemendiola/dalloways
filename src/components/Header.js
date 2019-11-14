@@ -9,13 +9,13 @@ const Header = (props) => {
             <nav className={isOpen ? 'header__nav show' : 'header__nav hide'}>
                 <ul className="nav__options">
                     <li className="option">
-                        <Link to="/products" class="link" onClick={showProduct}>Cositas ricas</Link>
+                        <Link to="/products" class="link" onClick={showProduct}>HAGO</Link>
                     </li>
                     <li className="option">
-                        <a href="#" className="link">Quién soy</a>
+                    <Link to="/about" class="link" onClick={showProduct}>SOY</Link>
                     </li>
                     <li className="option">
-                        <a href="#" className="link">Contacto</a>
+                        <a href="#" className="link">¿hablamos?</a>
                     </li>
                 </ul>
                 <button className="nav--closer" title="menu" type="button" onClick={hideNav} />
